@@ -1,0 +1,11 @@
+Tank's name: Abrams
+Country: USA
+Firepower: 5
+Weponry: Cannon
+Caliber: 125
+Area of movement: ground
+Date of assembly: 1999
+Amount of Tanks in hangar: 10
+Weight: 45
+Number of people in the crew: 2
+====================================
